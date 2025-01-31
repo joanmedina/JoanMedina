@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy desarrollador y consultor IT con más de 10 años de experiencia en la creación de soluciones tecnológicas personalizadas. Como fundador de [UnnOtec](https://unnotec.com) y creador de [NelkoDev](https://nelkodev.com), me especializo en el desarrollo de aplicaciones web, sistemas ERP, automatizaciones y tiendas en línea.
+Soy desarrollador y consultor IT con más de 10 años de experiencia en la creación de soluciones tecnológicas personalizadas.Ccreador de [NelkoDev](https://nelkodev.com), Dev 4 Code, Dev 4 Web, Dev 4 Woo y Grupo UnnOtec me especializo en el desarrollo de aplicaciones web, sistemas ERP, automatizaciones y asesoramiento tecnológico para pymes/empresas.
 
 ## Proyectos Destacados
 
